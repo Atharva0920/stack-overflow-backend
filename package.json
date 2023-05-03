@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "sof",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,8 +16,8 @@
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.0",
     "mongodb": "^5.3.0",
-    "mongoose": "^7.0.3",
+    "mongoose": "^7.1.0",
     "node": "^20.0.0"
-    
-  }
+  },
+  "repository": "https://github.com/Atharva0920/stack-overflow-backend.git"
 }
