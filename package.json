@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atharva0920/stack-overflow-backend.git"
+  },
+  "author": "Atharva Ganmote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atharva0920/stack-overflow-backend/issues"
+  },
+  "homepage": "https://github.com/Atharva0920/stack-overflow-backend#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.3.0",
+    "mongoose": "^7.1.0",
+    "node": "^20.0.0"
+  }
+}
